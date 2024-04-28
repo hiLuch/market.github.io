@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5bdde811.css",
+    "main.js": "/static/js/main.c3bd0407.js",
+    "static/js/453.ad6eb26e.chunk.js": "/static/js/453.ad6eb26e.chunk.js",
+    "static/media/defaultBg.png": "/static/media/defaultBg.84a1c8a6419244ebd916.png",
+    "static/media/bg-partners.svg": "/static/media/bg-partners.77847c88a53ae33444f5.svg",
+    "static/media/bg-news.svg": "/static/media/bg-news.57f9493af85efd3f83ffe9b4f5340bb7.svg",
+    "static/media/news_photo_1.png": "/static/media/news_photo_1.c4900bcee5dfe0d54199.png",
+    "static/media/news_photo_2.png": "/static/media/news_photo_2.45b64da6ae4838cf015e.png",
+    "static/media/about_us-bg.svg": "/static/media/about_us-bg.a70c8ff454965595bd6d.svg",
+    "static/media/sell_park2.png": "/static/media/sell_park2.ab0a68135de01221359d.png",
+    "static/media/sell_park3.png": "/static/media/sell_park3.fe275f8b0f71ff2bf567.png",
+    "static/media/sell_park1.png": "/static/media/sell_park1.b59c5d0dce20163b4e77.png",
+    "static/media/contacts.svg": "/static/media/contacts.447fbd03894ca546a055.svg",
+    "static/media/logo-big.svg": "/static/media/logo-big.6a729e1897fbf609bc0ead660cca0aec.svg",
+    "static/media/white_logo.svg": "/static/media/white_logo.d822c366d2b1adb2437689c8d9111c52.svg",
+    "static/media/phone_icon.svg": "/static/media/phone_icon.e0c4f6dab64662ccaffe.svg",
+    "static/media/allow_down.svg": "/static/media/allow_down.fe2442408a86a1faad5b5c1c9d1cefd1.svg",
+    "index.html": "/index.html",
+    "main.5bdde811.css.map": "/static/css/main.5bdde811.css.map",
+    "main.c3bd0407.js.map": "/static/js/main.c3bd0407.js.map",
+    "453.ad6eb26e.chunk.js.map": "/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bdde811.css",
+    "static/js/main.c3bd0407.js"
+  ]
+}
